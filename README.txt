@@ -1,0 +1,2 @@
+To use this program you need firstly input way to your local file with input data in Class DataFileReader into field FILENAME.
+Then just execute this program through test Class CalculateAverageTimeWait.
